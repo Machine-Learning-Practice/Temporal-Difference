@@ -12,6 +12,11 @@ A car is on a one-dimensional track, positioned between two "mountains". The goa
 
 ## Discretizing the Continuous State Space to Discrete Space
 As the RL methods like MC and TD works on discrete space, we have to convert the environment state spance into discrete space.
+Methods like
+- Tile Encoding
+- Coarse Encoding 
+can be used for discretizing the space.
+
 ![](https://www.researchgate.net/profile/Hermann_Meer/publication/220053939/figure/fig1/AS:305815731884036@1449923560542/Discrete-vs-continuous-time-and-discrete-vs-continuous-state-space-models.png)
 
 
